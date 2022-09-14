@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oFMgm6B4iBJcYRKBaLeIuW6mhtZM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "	vRqLaNl6G3T_s4huPlE_gC_xBb7X2AjIhnReqOdKDcc",
       // 所在省份
       province: "云南",
       // 所在城市
@@ -53,7 +53,7 @@ export const config = {
         {"keyword": "love_day", date: "2021-01-01"},
       ]
     },
-    {
+    /**{
       name: "老婆1",
       id: "",
       useTemplateId: "",
@@ -88,7 +88,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    },
+    },*/
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -98,7 +98,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "vgvd-xdCGrsPq9pDwGJmacou8FM5Qbv_AB3iCYc41Y0",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
