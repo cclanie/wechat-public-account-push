@@ -168,9 +168,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2021-01-01"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    {"keyword": "marry_day", date: "2021-01-01"},
     // 退伍日
     {"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
