@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oFMgm6B4iBJcYRKBaLeIuW6mhtZM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	vRqLaNl6G3T_s4huPlE_gC_xBb7X2AjIhnReqOdKDcc",
+      useTemplateId: "vRqLaNl6G3T_s4huPlE_gC_xBb7X2AjIhnReqOdKDcc",
       // 所在省份
       province: "云南",
       // 所在城市
@@ -53,42 +53,42 @@ export const config = {
         {"keyword": "love_day", date: "2021-01-01"},
       ]
     },
-    /**{
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },*/
+    //{
+     // name: "老婆1",
+      //id: "",
+      //useTemplateId: "",
+     // province: "",
+     // city: "",
+      //horoscopeDate: '',
+     // horoscopeDateType: '',
+      //openUrl: "http://www.yduanzi.com/?zping626",
+      //festivals: [],
+      //customizedDateList: []
+   // },
+   // {
+     // name: "老婆2",
+      //id: "",
+      //useTemplateId: "",
+     // province: "",
+      //city: "",
+      //horoscopeDate: '',
+      //horoscopeDateType: '',
+     // openUrl: "http://www.yduanzi.com/?zping626",
+      //festivals: [],
+     // customizedDateList: []
+    //},
+   // {
+      //name: "老婆3",
+     // id: "",
+     // useTemplateId: "",
+      //province: "",
+      //city: "",
+      //horoscopeDate: '',
+     // horoscopeDateType: '',
+      //openUrl: "http://www.yduanzi.com/?zping626",
+      //festivals: [],
+      //customizedDateList: []
+    //},
     // 你可以不断按格式往下增加
     // ...
   ],
